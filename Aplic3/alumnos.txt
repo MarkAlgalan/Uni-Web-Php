@@ -1,0 +1,8 @@
+Mario 9.3 Licenciatura
+José 9.6 Licenciatura
+Uriel 9.7 Licenciatura
+David 9.4 Licenciatura
+Fátima 8.8 Ingeniería
+Braulio 8.9 Licenciatura
+Uriel 9.1 Mecatrónica
+Max 8.7 Informática
